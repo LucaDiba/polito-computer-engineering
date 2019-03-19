@@ -1,0 +1,40 @@
+[A0001] Rossi, Francesco
+	Categoria: ACRO_12_18
+	Data nasc: 10/07/2000
+	Ore setti: 12
+[A0002] Verdi, Marco
+	Categoria: GAM_L4
+	Data nasc: 02/12/1999
+	Ore setti: 11
+[A0003] Bianchi, Valeria
+	Categoria: GAF_GOLD
+	Data nasc: 20/02/1997
+	Ore setti: 16
+[A0004] Neri, Andrea
+	Categoria: GAM_OPEN
+	Data nasc: 21/06/1995
+	Ore setti: 13
+[A0005] Verdi, Sara
+	Categoria: ACRO_12_18
+	Data nasc: 11/12/2003
+	Ore setti: 10
+[A0006] Rossi, Antonio
+	Categoria: GAM_L2
+	Data nasc: 11/12/2008
+	Ore setti: 5
+[A0007] Milano, Simone
+	Categoria: ACRO_12_18
+	Data nasc: 12/11/2003
+	Ore setti: 8
+[A0008] Rossi, Valentina
+	Categoria: ACRO_12_18
+	Data nasc: 11/12/2003
+	Ore setti: 10
+[A0009] Pavlov, Nikolai
+	Categoria: GAM_L4
+	Data nasc: 20/06/1999
+	Ore setti: 12
+[A0010] Verdi, Samanta
+	Categoria: GAF_GOLD
+	Data nasc: 01/04/1996
+	Ore setti: 16

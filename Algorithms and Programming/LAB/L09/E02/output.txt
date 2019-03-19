@@ -1,0 +1,11 @@
+5
+Nome: d
+Punteggio: 7
+Nome: e
+Punteggio: 8
+Nome: a
+Punteggio: 13
+Nome: b
+Punteggio: 12
+Nome: c
+Punteggio: 10
